@@ -33,7 +33,7 @@ def play_game():
             attempts -= 1
         print(result)
         if attempts == 0:
-            print("Yor're run out of guesses, you lose.")
+            print("Yor've run out of guesses, you lose.")
             game_over = True
         
 
